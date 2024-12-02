@@ -1,5 +1,3 @@
-#include "main.h"
-
 #include <algorithm>
 #include <iostream>
 #include <fstream>
